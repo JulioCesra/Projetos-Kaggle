@@ -1,4 +1,4 @@
-# Análise Gráfica dos Agrupados de Músicas do Spotify
+# Análise Gráfica dos Agrupamentos de Músicas do Spotify
 
 *OBJETIVO DO PROJETO*
 
