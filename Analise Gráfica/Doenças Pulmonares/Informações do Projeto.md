@@ -6,14 +6,14 @@ Entender o comportamento dos dados, configurar o dataset para a linguagem brasil
 
 *O projeto está distribuido nos seguintes tópicos abaixo:*
 
-*1 - Importação do Dataset
+* 1 - Importação do Dataset
 
-*2 - Configuração do Dataset
+* 2 - Configuração do Dataset
 
-*3 - Tratamento de Dados
+* 3 - Tratamento de Dados
 
-*4 - Análise Gráfica
+* 4 - Análise Gráfica
 
-*5 - Conclusão da Análise
+* 5 - Conclusão da Análise
 
 ***LINK DO PROJETO: https://www.kaggle.com/code/juliosilv/lungs-diseases-graphic-analysis-and-data-tratament***
